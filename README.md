@@ -1,0 +1,2 @@
+# CAMARO-Z28-1970-WIDE-BODY
+.obj + .mtl
